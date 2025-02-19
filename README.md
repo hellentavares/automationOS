@@ -1,5 +1,6 @@
 # automationOS
 Sistema de Automação de Ordem de Serviço
+<<<<<<< HEAD
  Sistema de Automação de OS
 
 ## Descrição
@@ -37,3 +38,4 @@ Certifique-se de ter o Python instalado em sua máquina (versão 3.8 ou superior
 Opcionais: 
 - pip install -r requirements.txt
 - pip freeze > requirements.txt
+
