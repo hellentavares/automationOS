@@ -19,7 +19,7 @@ class Osactions:
             print("Error: Invalid driver. Cannot perform action.")
             return
 
-    def firsh_category(self):
+    def first_category(self):
             """Clicar no dropdonw da 1ª categoria'."""
             try:
                 button = self.wait.until(EC.element_to_be_clickable((By.XPATH, AutomationOs.CATEGORY_ONE)))
