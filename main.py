@@ -56,7 +56,7 @@ if __name__ == "__main__":
                 time.sleep(3)
 
                 print("Selecionando a primeira categoria...")
-                os_actions.firsh_category()
+                os_actions.first_category()
                 time.sleep(3)
 
                 print("Selecionando seletor 'Administrativo'...")
